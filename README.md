@@ -27,10 +27,5 @@ This is my developer profile page, showcasing who I am, my background, my skills
 ## Live Demo
 [View Live Site](#) <!-- add your GitHub Pages link here once deployed -->
 
-## What's Next
-- Week 2: Styling this page with CSS
-- Week 6: Deploying live on GitHub Pages
-- Week 8: Rebuilding in React and deploying on Vercel
-
 ## Author
 Michael Jr — [LinkedIn]https://www.linkedin.com/in/michael-lungu-a82661364/ · [GitHub](https://github.com/MJr5-gif)
