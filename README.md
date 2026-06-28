@@ -25,7 +25,7 @@ This is my developer profile page, showcasing who I am, my background, my skills
 - Linking to external profiles (GitHub, LinkedIn)
 
 ## Live Demo
-[View Live Site](https://mjr5-gif.github.io/Michael-Portfolio/#) <!-- add your GitHub Pages link here once deployed -->
+[View Live Site](https://mjr5-gif.github.io/Michael-Portfolio/#) 
 
 ## Author
 Michael Jr — [LinkedIn]https://www.linkedin.com/in/michael-lungu-a82661364/ · [GitHub](https://github.com/MJr5-gif)
